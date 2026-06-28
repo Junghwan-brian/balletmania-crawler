@@ -1,0 +1,50 @@
+name: balletmania-crawler
+
+on:
+  schedule:
+    # 5분마다 (GitHub Actions 최소 주기. 실제로는 부하에 따라 지연될 수 있음)
+    - cron: "*/5 * * * *"
+  workflow_dispatch: {}   # 수동 실행 버튼
+
+# state.json 을 레포에 커밋(푸시)하기 위한 쓰기 권한
+permissions:
+  contents: write
+
+# 동시에 한 번만 실행 (겹침 방지)
+concurrency:
+  group: crawler
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run crawler
+        env:
+          TELEGRAM_ACCESS_TOKEN: ${{ secrets.TELEGRAM_ACCESS_TOKEN }}
+          TELEGRAM_CHAT_IDS: ${{ secrets.TELEGRAM_CHAT_IDS }}
+        run: python crawler.py
+
+      - name: Commit state if changed
+        run: |
+          git add state.json
+          if git diff --cached --quiet; then
+            echo "변경 없음 - 커밋 생략"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "chore: update crawler state [skip ci]"
+            git push
+          fi
