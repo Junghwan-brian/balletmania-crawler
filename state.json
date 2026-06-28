@@ -1,12 +1,22 @@
 {
-  "last_max": 11482,
+  "last_max": 11483,
   "recent": [
+    {
+      "num": 11483,
+      "title": "7/16(목) 김포 유아발레 대강선생님 구합니...",
+      "author": "정예슬",
+      "recommend": 0,
+      "views": 16,
+      "reg_date": "14:37:58",
+      "post_no": "12156",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12156"
+    },
     {
       "num": 11482,
       "title": "영통 용인 유아 댄스수업",
       "author": "아이사랑",
       "recommend": 0,
-      "views": 7,
+      "views": 10,
       "reg_date": "10:45:27",
       "post_no": "12155",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12155"
@@ -16,7 +26,7 @@
       "title": "양천구 신월 4동 화목 저녁 2타임 7월 대강...",
       "author": "윤지원",
       "recommend": 0,
-      "views": 31,
+      "views": 32,
       "reg_date": "2026-06-27",
       "post_no": "12154",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12154"
@@ -96,7 +106,7 @@
       "title": "야당역 5분 거리 월수 유아초등 부전공발레",
       "author": "유민주",
       "recommend": 0,
-      "views": 58,
+      "views": 59,
       "reg_date": "2026-06-24",
       "post_no": "12146",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12146"
@@ -152,5 +162,5 @@
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12141"
     }
   ],
-  "updated_at": "2026-06-28 04:58:45"
+  "updated_at": "2026-06-28 08:22:59"
 }
