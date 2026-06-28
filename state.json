@@ -1,12 +1,22 @@
 {
-  "last_max": 11481,
+  "last_max": 11482,
   "recent": [
+    {
+      "num": 11482,
+      "title": "영통 용인 유아 댄스수업",
+      "author": "아이사랑",
+      "recommend": 0,
+      "views": 7,
+      "reg_date": "10:45:27",
+      "post_no": "12155",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12155"
+    },
     {
       "num": 11481,
       "title": "양천구 신월 4동 화목 저녁 2타임 7월 대강...",
       "author": "윤지원",
       "recommend": 0,
-      "views": 22,
+      "views": 31,
       "reg_date": "2026-06-27",
       "post_no": "12154",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12154"
@@ -16,7 +26,7 @@
       "title": "서초우면동) 현대무용 원데이클래스 강사 ...",
       "author": "스웨이댄스 Art space",
       "recommend": 0,
-      "views": 30,
+      "views": 33,
       "reg_date": "2026-06-27",
       "post_no": "12153",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12153"
@@ -26,7 +36,7 @@
       "title": "7/10(금) 3타임) 바레,발레 가능하신 강사...",
       "author": "백향은",
       "recommend": 0,
-      "views": 45,
+      "views": 47,
       "reg_date": "2026-06-26",
       "post_no": "12152",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12152"
@@ -46,7 +56,7 @@
       "title": "신풍역 6월30일 화요일 두타임 70000원",
       "author": "유명주",
       "recommend": 0,
-      "views": 55,
+      "views": 56,
       "reg_date": "2026-06-25",
       "post_no": "12150",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12150"
@@ -86,7 +96,7 @@
       "title": "야당역 5분 거리 월수 유아초등 부전공발레",
       "author": "유민주",
       "recommend": 0,
-      "views": 57,
+      "views": 58,
       "reg_date": "2026-06-24",
       "post_no": "12146",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12146"
@@ -142,5 +152,5 @@
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12141"
     }
   ],
-  "updated_at": "2026-06-28 00:26:07"
+  "updated_at": "2026-06-28 04:58:45"
 }
