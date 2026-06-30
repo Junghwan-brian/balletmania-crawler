@@ -1,12 +1,22 @@
 {
-  "last_max": 11488,
+  "last_max": 11489,
   "recent": [
+    {
+      "num": 11489,
+      "title": "7월7일 화요일 수원장안구 유아발레대강",
+      "author": "이경란",
+      "recommend": 0,
+      "views": 9,
+      "reg_date": "11:31:02",
+      "post_no": "12162",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12162"
+    },
     {
       "num": 11488,
       "title": "7월 22일 발레 대강 구인",
       "author": "서휘린",
       "recommend": 1,
-      "views": 0,
+      "views": 14,
       "reg_date": "10:09:33",
       "post_no": "12161",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12161"
@@ -16,7 +26,7 @@
       "title": "강서구) 7월 2일(목) 저녁수업 대강강사님 ...",
       "author": "이호석",
       "recommend": 1,
-      "views": 4,
+      "views": 14,
       "reg_date": "09:45:41",
       "post_no": "12160",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12160"
@@ -26,7 +36,7 @@
       "title": "7월 3일,10일 금요일 (총 4타임)",
       "author": "고가흔",
       "recommend": 1,
-      "views": 46,
+      "views": 50,
       "reg_date": "2026-06-29",
       "post_no": "12159",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12159"
@@ -36,7 +46,7 @@
       "title": "파주 성인반 월수",
       "author": "김진희",
       "recommend": 0,
-      "views": 40,
+      "views": 41,
       "reg_date": "2026-06-29",
       "post_no": "12158",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12158"
@@ -76,7 +86,7 @@
       "title": "양천구 신월 4동 화목 저녁 2타임 7월 대강...",
       "author": "윤지원",
       "recommend": 0,
-      "views": 67,
+      "views": 68,
       "reg_date": "2026-06-27",
       "post_no": "12154",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12154"
@@ -96,7 +106,7 @@
       "title": "7/10(금) 3타임) 바레,발레 가능하신 강사...",
       "author": "백향은",
       "recommend": 0,
-      "views": 59,
+      "views": 62,
       "reg_date": "2026-06-26",
       "post_no": "12152",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12152"
@@ -212,5 +222,5 @@
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12141"
     }
   ],
-  "updated_at": "2026-06-30 01:31:40"
+  "updated_at": "2026-06-30 05:50:03"
 }
