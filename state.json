@@ -1,12 +1,22 @@
 {
-  "last_max": 11489,
+  "last_max": 11490,
   "recent": [
+    {
+      "num": 11490,
+      "title": "[발레썸합정] 내일 수요일 오전 11시 성인...",
+      "author": "박지선",
+      "recommend": 4,
+      "views": 12,
+      "reg_date": "16:00:41",
+      "post_no": "12163",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12163"
+    },
     {
       "num": 11489,
       "title": "7월7일 화요일 수원장안구 유아발레대강",
       "author": "이경란",
       "recommend": 0,
-      "views": 9,
+      "views": 18,
       "reg_date": "11:31:02",
       "post_no": "12162",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12162"
@@ -16,7 +26,7 @@
       "title": "7월 22일 발레 대강 구인",
       "author": "서휘린",
       "recommend": 1,
-      "views": 14,
+      "views": 28,
       "reg_date": "10:09:33",
       "post_no": "12161",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12161"
@@ -26,7 +36,7 @@
       "title": "강서구) 7월 2일(목) 저녁수업 대강강사님 ...",
       "author": "이호석",
       "recommend": 1,
-      "views": 14,
+      "views": 23,
       "reg_date": "09:45:41",
       "post_no": "12160",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12160"
@@ -36,7 +46,7 @@
       "title": "7월 3일,10일 금요일 (총 4타임)",
       "author": "고가흔",
       "recommend": 1,
-      "views": 50,
+      "views": 59,
       "reg_date": "2026-06-29",
       "post_no": "12159",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12159"
@@ -46,7 +56,7 @@
       "title": "파주 성인반 월수",
       "author": "김진희",
       "recommend": 0,
-      "views": 41,
+      "views": 43,
       "reg_date": "2026-06-29",
       "post_no": "12158",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12158"
@@ -86,7 +96,7 @@
       "title": "양천구 신월 4동 화목 저녁 2타임 7월 대강...",
       "author": "윤지원",
       "recommend": 0,
-      "views": 68,
+      "views": 71,
       "reg_date": "2026-06-27",
       "post_no": "12154",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12154"
@@ -106,7 +116,7 @@
       "title": "7/10(금) 3타임) 바레,발레 가능하신 강사...",
       "author": "백향은",
       "recommend": 0,
-      "views": 62,
+      "views": 63,
       "reg_date": "2026-06-26",
       "post_no": "12152",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12152"
@@ -126,7 +136,7 @@
       "title": "신풍역 6월30일 화요일 두타임 70000원",
       "author": "유명주",
       "recommend": 0,
-      "views": 75,
+      "views": 76,
       "reg_date": "2026-06-25",
       "post_no": "12150",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12150"
@@ -222,5 +232,5 @@
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12141"
     }
   ],
-  "updated_at": "2026-06-30 05:50:03"
+  "updated_at": "2026-06-30 08:48:36"
 }
