@@ -1,12 +1,22 @@
 {
-  "last_max": 11491,
+  "last_max": 11492,
   "recent": [
+    {
+      "num": 11492,
+      "title": "발레 대강 수업 가능하신 선생님 모집합니...",
+      "author": "원다희",
+      "recommend": 0,
+      "views": 1,
+      "reg_date": "22:19:37",
+      "post_no": "12165",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12165"
+    },
     {
       "num": 11491,
       "title": "성인발레 대리선생님 구합니다",
       "author": "발레인",
       "recommend": 0,
-      "views": 6,
+      "views": 14,
       "reg_date": "20:23:43",
       "post_no": "12164",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12164"
@@ -16,7 +26,7 @@
       "title": "[발레썸합정] 내일 수요일 오전 11시 성인...",
       "author": "박지선",
       "recommend": 4,
-      "views": 22,
+      "views": 25,
       "reg_date": "16:00:41",
       "post_no": "12163",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12163"
@@ -36,7 +46,7 @@
       "title": "7월 22일 발레 대강 구인",
       "author": "서휘린",
       "recommend": 1,
-      "views": 30,
+      "views": 31,
       "reg_date": "10:09:33",
       "post_no": "12161",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12161"
@@ -46,7 +56,7 @@
       "title": "강서구) 7월 2일(목) 저녁수업 대강강사님 ...",
       "author": "이호석",
       "recommend": 1,
-      "views": 25,
+      "views": 28,
       "reg_date": "09:45:41",
       "post_no": "12160",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12160"
@@ -106,7 +116,7 @@
       "title": "양천구 신월 4동 화목 저녁 2타임 7월 대강...",
       "author": "윤지원",
       "recommend": 0,
-      "views": 72,
+      "views": 73,
       "reg_date": "2026-06-27",
       "post_no": "12154",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12154"
@@ -242,5 +252,5 @@
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12141"
     }
   ],
-  "updated_at": "2026-06-30 11:35:18"
+  "updated_at": "2026-06-30 13:27:29"
 }
