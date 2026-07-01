@@ -1,12 +1,22 @@
 {
-  "last_max": 11498,
+  "last_max": 11499,
   "recent": [
+    {
+      "num": 11499,
+      "title": "<급구> 7/3금요일 창동역 대강 강사님 구합...",
+      "author": "이유정",
+      "recommend": 0,
+      "views": 4,
+      "reg_date": "03:31:02",
+      "post_no": "12172",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12172"
+    },
     {
       "num": 11498,
       "title": "2동탄 7/25 (토) 3타임 대강강사 구합니다!...",
       "author": "정난희",
       "recommend": 0,
-      "views": 1,
+      "views": 9,
       "reg_date": "01:05:03",
       "post_no": "12171",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12171"
@@ -16,7 +26,7 @@
       "title": "2동탄 7/21(화) 3타임 대강 강사 구합니다!...",
       "author": "정난희",
       "recommend": 0,
-      "views": 1,
+      "views": 5,
       "reg_date": "01:03:03",
       "post_no": "12170",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12170"
@@ -26,7 +36,7 @@
       "title": "2동탄 7/18(토) 3타임 대강강사 구합니다!",
       "author": "정난희",
       "recommend": 0,
-      "views": 1,
+      "views": 6,
       "reg_date": "01:00:04",
       "post_no": "12169",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12169"
@@ -36,7 +46,7 @@
       "title": "신풍역 7월 2일 화요일 5:00-5:50분 6:00-6...",
       "author": "유명주",
       "recommend": 0,
-      "views": 10,
+      "views": 12,
       "reg_date": "2026-07-01",
       "post_no": "12168",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12168"
@@ -46,7 +56,7 @@
       "title": "부천 8월3일/8월5일 성인발레 대강 선생님 ...",
       "author": "김미란",
       "recommend": 0,
-      "views": 13,
+      "views": 15,
       "reg_date": "2026-07-01",
       "post_no": "12167",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12167"
@@ -312,5 +322,5 @@
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12141"
     }
   ],
-  "updated_at": "2026-07-01 16:21:32"
+  "updated_at": "2026-07-01 20:18:42"
 }
