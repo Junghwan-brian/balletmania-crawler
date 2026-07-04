@@ -1,12 +1,22 @@
 {
-  "last_max": 11508,
+  "last_max": 11509,
   "recent": [
+    {
+      "num": 11509,
+      "title": "인천 서구 유아 댄스수업(7.6일 월요일)",
+      "author": "박실장",
+      "recommend": 0,
+      "views": 4,
+      "reg_date": "11:44:56",
+      "post_no": "12182",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12182"
+    },
     {
       "num": 11508,
       "title": "7월14일 수원 장안구 유치원 유아발레 대강",
       "author": "이경란",
       "recommend": 0,
-      "views": 5,
+      "views": 14,
       "reg_date": "2026-07-03",
       "post_no": "12181",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12181"
@@ -16,7 +26,7 @@
       "title": "17일 합정 대타선생님 구합니다",
       "author": "정빈",
       "recommend": 0,
-      "views": 48,
+      "views": 56,
       "reg_date": "2026-07-03",
       "post_no": "12180",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12180"
@@ -26,7 +36,7 @@
       "title": "고양시 현대무용전공 / 성인발레까지 가능...",
       "author": "이경민",
       "recommend": 0,
-      "views": 28,
+      "views": 34,
       "reg_date": "2026-07-03",
       "post_no": "12179",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12179"
@@ -36,7 +46,7 @@
       "title": "[구인완료] 향동(DMC역 부근) 7/29(수) 20:...",
       "author": "신에스더",
       "recommend": 0,
-      "views": 28,
+      "views": 30,
       "reg_date": "2026-07-03",
       "post_no": "12178",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12178"
@@ -46,7 +56,7 @@
       "title": "이솝발레학원 구리점 7/7, 7/14 20:10 성인...",
       "author": "천영은",
       "recommend": 3,
-      "views": 29,
+      "views": 34,
       "reg_date": "2026-07-03",
       "post_no": "12177",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12177"
@@ -56,7 +66,7 @@
       "title": "발산역/내일 7.3(금) 오전2타임/차비지원★",
       "author": "에이블랑",
       "recommend": 1,
-      "views": 41,
+      "views": 43,
       "reg_date": "2026-07-02",
       "post_no": "12176",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12176"
@@ -96,7 +106,7 @@
       "title": "<급구> 7/3금요일 창동역 대강 강사님 구합...",
       "author": "이유정",
       "recommend": 0,
-      "views": 54,
+      "views": 55,
       "reg_date": "2026-07-02",
       "post_no": "12172",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12172"
@@ -116,7 +126,7 @@
       "title": "2동탄 7/21(화) 3타임 대강 강사 구합니다!...",
       "author": "정난희",
       "recommend": 0,
-      "views": 28,
+      "views": 29,
       "reg_date": "2026-07-02",
       "post_no": "12170",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12170"
@@ -412,5 +422,5 @@
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12141"
     }
   ],
-  "updated_at": "2026-07-03 15:25:36"
+  "updated_at": "2026-07-04 04:56:30"
 }
