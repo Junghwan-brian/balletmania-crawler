@@ -1,12 +1,22 @@
 {
-  "last_max": 11509,
+  "last_max": 11510,
   "recent": [
+    {
+      "num": 11510,
+      "title": "의왕,수원 성인,유아발레 (전공무관)",
+      "author": "이경란",
+      "recommend": 0,
+      "views": 6,
+      "reg_date": "14:51:45",
+      "post_no": "12183",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12183"
+    },
     {
       "num": 11509,
       "title": "인천 서구 유아 댄스수업(7.6일 월요일)",
       "author": "박실장",
       "recommend": 0,
-      "views": 4,
+      "views": 11,
       "reg_date": "11:44:56",
       "post_no": "12182",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12182"
@@ -26,7 +36,7 @@
       "title": "17일 합정 대타선생님 구합니다",
       "author": "정빈",
       "recommend": 0,
-      "views": 56,
+      "views": 57,
       "reg_date": "2026-07-03",
       "post_no": "12180",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12180"
@@ -106,7 +116,7 @@
       "title": "<급구> 7/3금요일 창동역 대강 강사님 구합...",
       "author": "이유정",
       "recommend": 0,
-      "views": 55,
+      "views": 56,
       "reg_date": "2026-07-02",
       "post_no": "12172",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12172"
@@ -422,5 +432,5 @@
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12141"
     }
   ],
-  "updated_at": "2026-07-04 04:56:30"
+  "updated_at": "2026-07-04 07:43:17"
 }
