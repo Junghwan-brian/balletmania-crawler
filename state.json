@@ -1,12 +1,32 @@
 {
-  "last_max": 11532,
+  "last_max": 11534,
   "recent": [
+    {
+      "num": 11534,
+      "title": "삼송 유아 발레 수업",
+      "author": "윤정빈",
+      "recommend": 0,
+      "views": 3,
+      "reg_date": "14:15:12",
+      "post_no": "12207",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12207"
+    },
+    {
+      "num": 11533,
+      "title": "8/14(금) 성인발레대강",
+      "author": "이유정",
+      "recommend": 0,
+      "views": 6,
+      "reg_date": "13:14:56",
+      "post_no": "12206",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12206"
+    },
     {
       "num": 11532,
       "title": "야당역5분7/15수요일 유아초등3타임 9만원",
       "author": "유민주",
       "recommend": 0,
-      "views": 10,
+      "views": 20,
       "reg_date": "10:09:37",
       "post_no": "12205",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12205"
@@ -16,7 +36,7 @@
       "title": "7월 18일 아현역 대강선생님 구합니다",
       "author": "이예림",
       "recommend": 0,
-      "views": 83,
+      "views": 88,
       "reg_date": "2026-07-10",
       "post_no": "12204",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12204"
@@ -66,7 +86,7 @@
       "title": "급구!7/10 오전 학동초 어린이공연 페이 15...",
       "author": "조윤",
       "recommend": 0,
-      "views": 99,
+      "views": 101,
       "reg_date": "2026-07-08",
       "post_no": "12199",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12199"
@@ -480,27 +500,7 @@
       "reg_date": "2026-06-29",
       "post_no": "12158",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12158"
-    },
-    {
-      "num": 11484,
-      "title": "오늘 저녁 성인반 대강",
-      "author": "김진희",
-      "recommend": 0,
-      "views": 20,
-      "reg_date": "2026-06-29",
-      "post_no": "12157",
-      "url": "https://www.balletmania.com/board/index.html?id=working&no=12157"
-    },
-    {
-      "num": 11483,
-      "title": "7/16(목) 김포 유아발레 대강선생님 구합니...",
-      "author": "정예슬",
-      "recommend": 0,
-      "views": 20,
-      "reg_date": "2026-06-28",
-      "post_no": "12156",
-      "url": "https://www.balletmania.com/board/index.html?id=working&no=12156"
     }
   ],
-  "updated_at": "2026-07-12 03:47:26"
+  "updated_at": "2026-07-12 06:21:10"
 }
