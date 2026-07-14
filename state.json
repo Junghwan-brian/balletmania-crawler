@@ -1,12 +1,42 @@
 {
-  "last_max": 11544,
+  "last_max": 11547,
   "recent": [
+    {
+      "num": 11547,
+      "title": "7/16 목요일 시흥 대강 구합니다.(발레)",
+      "author": "조정윤",
+      "recommend": 0,
+      "views": 3,
+      "reg_date": "17:58:30",
+      "post_no": "12220",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12220"
+    },
+    {
+      "num": 11546,
+      "title": "덕양구 유아발레",
+      "author": "윤정빈",
+      "recommend": 0,
+      "views": 1,
+      "reg_date": "17:51:50",
+      "post_no": "12219",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12219"
+    },
+    {
+      "num": 11545,
+      "title": "[발레썸 합정]7/27 월요일 오전 11:00~ 성...",
+      "author": "박지선",
+      "recommend": 4,
+      "views": 1,
+      "reg_date": "16:47:13",
+      "post_no": "12218",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12218"
+    },
     {
       "num": 11544,
       "title": "총신대입구 토요일 오전 선생님 구합니다.",
       "author": "김수진",
       "recommend": 0,
-      "views": 2,
+      "views": 16,
       "reg_date": "14:39:31",
       "post_no": "12217",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12217"
@@ -16,7 +46,7 @@
       "title": "[급구] 노원 7/16(목) 오후5시 초등발레 대...",
       "author": "담당자",
       "recommend": 4,
-      "views": 3,
+      "views": 14,
       "reg_date": "13:49:49",
       "post_no": "12216",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12216"
@@ -26,7 +56,7 @@
       "title": "7/15 일산 발레 대강 구합니다 !",
       "author": "구시은",
       "recommend": 1,
-      "views": 27,
+      "views": 28,
       "reg_date": "2026-07-13",
       "post_no": "12215",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12215"
@@ -36,7 +66,7 @@
       "title": "7/15(수) 부천 유아 수업 대강",
       "author": "최지윤",
       "recommend": 1,
-      "views": 23,
+      "views": 25,
       "reg_date": "2026-07-13",
       "post_no": "12214",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12214"
@@ -56,7 +86,7 @@
       "title": "노원 7/28(화), 8/4(화) 성인발레 대강 구...",
       "author": "담당자",
       "recommend": 4,
-      "views": 43,
+      "views": 44,
       "reg_date": "2026-07-13",
       "post_no": "12212",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12212"
@@ -106,7 +136,7 @@
       "title": "삼송 유아 발레 수업",
       "author": "윤정빈",
       "recommend": 0,
-      "views": 36,
+      "views": 38,
       "reg_date": "2026-07-12",
       "post_no": "12207",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12207"
@@ -470,37 +500,7 @@
       "reg_date": "2026-07-02",
       "post_no": "12171",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12171"
-    },
-    {
-      "num": 11497,
-      "title": "2동탄 7/21(화) 3타임 대강 강사 구합니다!...",
-      "author": "정난희",
-      "recommend": 0,
-      "views": 29,
-      "reg_date": "2026-07-02",
-      "post_no": "12170",
-      "url": "https://www.balletmania.com/board/index.html?id=working&no=12170"
-    },
-    {
-      "num": 11496,
-      "title": "2동탄 7/18(토) 3타임 대강강사 구합니다!",
-      "author": "정난희",
-      "recommend": 0,
-      "views": 28,
-      "reg_date": "2026-07-02",
-      "post_no": "12169",
-      "url": "https://www.balletmania.com/board/index.html?id=working&no=12169"
-    },
-    {
-      "num": 11495,
-      "title": "신풍역 7월 2일 화요일 80000원 5:00-5:50...",
-      "author": "유명주",
-      "recommend": 0,
-      "views": 45,
-      "reg_date": "2026-07-01",
-      "post_no": "12168",
-      "url": "https://www.balletmania.com/board/index.html?id=working&no=12168"
     }
   ],
-  "updated_at": "2026-07-14 05:51:49"
+  "updated_at": "2026-07-14 09:27:20"
 }
