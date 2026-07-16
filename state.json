@@ -1,12 +1,22 @@
 {
-  "last_max": 11553,
+  "last_max": 11554,
   "recent": [
+    {
+      "num": 11554,
+      "title": "발레포러스 잠실새내점 대강 구함  7/18  ...",
+      "author": "이아람",
+      "recommend": 0,
+      "views": 7,
+      "reg_date": "17:30:53",
+      "post_no": "12227",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12227"
+    },
     {
       "num": 11553,
       "title": "18일 토 10,11시 아현역 유아발레",
       "author": "박유진",
       "recommend": 0,
-      "views": 4,
+      "views": 12,
       "reg_date": "16:03:48",
       "post_no": "12226",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12226"
@@ -16,7 +26,7 @@
       "title": "★7/17(금) 천호역앞 발레학원 오후 성인발...",
       "author": "드림발레",
       "recommend": 1,
-      "views": 64,
+      "views": 66,
       "reg_date": "2026-07-15",
       "post_no": "12225",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12225"
@@ -26,7 +36,7 @@
       "title": "8/4, 8/11(화) 16:30-17:20 만수동 유아발...",
       "author": "유은지",
       "recommend": 0,
-      "views": 25,
+      "views": 26,
       "reg_date": "2026-07-15",
       "post_no": "12224",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12224"
@@ -36,7 +46,7 @@
       "title": "역삼동 초등발레 내일 16일 오후1시40분,3...",
       "author": "유아정",
       "recommend": 0,
-      "views": 53,
+      "views": 55,
       "reg_date": "2026-07-15",
       "post_no": "12223",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12223"
@@ -56,7 +66,7 @@
       "title": "역삼동 25일 (토) 오전10시11시 발레 대타...",
       "author": "배슬인",
       "recommend": 9,
-      "views": 50,
+      "views": 52,
       "reg_date": "2026-07-15",
       "post_no": "12221",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12221"
@@ -96,7 +106,7 @@
       "title": "총신대입구 토요일 오전 선생님 구합니다.",
       "author": "김수진",
       "recommend": 0,
-      "views": 42,
+      "views": 44,
       "reg_date": "2026-07-14",
       "post_no": "12217",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12217"
@@ -490,17 +500,7 @@
       "reg_date": "2026-07-03",
       "post_no": "12178",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12178"
-    },
-    {
-      "num": 11504,
-      "title": "이솝발레학원 구리점 7/7, 7/14 20:10 성인...",
-      "author": "천영은",
-      "recommend": 3,
-      "views": 55,
-      "reg_date": "2026-07-03",
-      "post_no": "12177",
-      "url": "https://www.balletmania.com/board/index.html?id=working&no=12177"
     }
   ],
-  "updated_at": "2026-07-16 07:48:42"
+  "updated_at": "2026-07-16 09:50:50"
 }
