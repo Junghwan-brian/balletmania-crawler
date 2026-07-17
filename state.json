@@ -1,12 +1,42 @@
 {
-  "last_max": 11556,
+  "last_max": 11559,
   "recent": [
+    {
+      "num": 11559,
+      "title": "7/25 (토) 발레 대강 강사 구합니다!!",
+      "author": "정난희",
+      "recommend": 0,
+      "views": 9,
+      "reg_date": "20:25:13",
+      "post_no": "12232",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12232"
+    },
+    {
+      "num": 11558,
+      "title": "7/21 (화) 발레 대강강사 구합니다",
+      "author": "정난희",
+      "recommend": 0,
+      "views": 4,
+      "reg_date": "20:22:27",
+      "post_no": "12231",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12231"
+    },
+    {
+      "num": 11557,
+      "title": "완전급구) 7/18토요일 오전 발레 대강 강사...",
+      "author": "정난희",
+      "recommend": 0,
+      "views": 5,
+      "reg_date": "20:20:39",
+      "post_no": "12230",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12230"
+    },
     {
       "num": 11556,
       "title": "9/2 오후 중동역부근  대강선생님 구합니다...",
       "author": "김규리",
       "recommend": 2,
-      "views": 2,
+      "views": 16,
       "reg_date": "12:32:35",
       "post_no": "12229",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12229"
@@ -16,7 +46,7 @@
       "title": "7/18일 오후 1시 50분 수업  (내일)  강동...",
       "author": "이미림",
       "recommend": 0,
-      "views": 13,
+      "views": 29,
       "reg_date": "11:30:25",
       "post_no": "12228",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12228"
@@ -26,7 +56,7 @@
       "title": "발레포러스 잠실새내점 대강 구함  7/18  ...",
       "author": "이아람",
       "recommend": 0,
-      "views": 24,
+      "views": 30,
       "reg_date": "2026-07-16",
       "post_no": "12227",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12227"
@@ -36,7 +66,7 @@
       "title": "18일 토 10,11시 아현역 유아발레",
       "author": "박유진",
       "recommend": 0,
-      "views": 18,
+      "views": 24,
       "reg_date": "2026-07-16",
       "post_no": "12226",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12226"
@@ -46,7 +76,7 @@
       "title": "★7/17(금) 천호역앞 발레학원 오후 성인발...",
       "author": "드림발레",
       "recommend": 1,
-      "views": 85,
+      "views": 88,
       "reg_date": "2026-07-15",
       "post_no": "12225",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12225"
@@ -56,7 +86,7 @@
       "title": "8/4, 8/11(화) 16:30-17:20 만수동 유아발...",
       "author": "유은지",
       "recommend": 0,
-      "views": 28,
+      "views": 29,
       "reg_date": "2026-07-15",
       "post_no": "12224",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12224"
@@ -86,7 +116,7 @@
       "title": "역삼동 25일 (토) 오전10시11시 발레 대타...",
       "author": "배슬인",
       "recommend": 9,
-      "views": 58,
+      "views": 60,
       "reg_date": "2026-07-15",
       "post_no": "12221",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12221"
@@ -470,37 +500,7 @@
       "reg_date": "2026-07-04",
       "post_no": "12183",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12183"
-    },
-    {
-      "num": 11509,
-      "title": "인천 서구 유아 댄스수업(7.6일 월요일)",
-      "author": "박실장",
-      "recommend": 0,
-      "views": 29,
-      "reg_date": "2026-07-04",
-      "post_no": "12182",
-      "url": "https://www.balletmania.com/board/index.html?id=working&no=12182"
-    },
-    {
-      "num": 11508,
-      "title": "7월14일 수원 장안구 유치원 유아발레 대강",
-      "author": "이경란",
-      "recommend": 0,
-      "views": 36,
-      "reg_date": "2026-07-03",
-      "post_no": "12181",
-      "url": "https://www.balletmania.com/board/index.html?id=working&no=12181"
-    },
-    {
-      "num": 11507,
-      "title": "17일 합정 대타선생님 구합니다",
-      "author": "정빈",
-      "recommend": 0,
-      "views": 119,
-      "reg_date": "2026-07-03",
-      "post_no": "12180",
-      "url": "https://www.balletmania.com/board/index.html?id=working&no=12180"
     }
   ],
-  "updated_at": "2026-07-17 04:19:16"
+  "updated_at": "2026-07-17 11:47:48"
 }
