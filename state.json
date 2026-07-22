@@ -1,12 +1,22 @@
 {
-  "last_max": 11578,
+  "last_max": 11579,
   "recent": [
+    {
+      "num": 11579,
+      "title": "급구/7/23 목 내일 마포 4시 성일발레스트레칭",
+      "author": "박소담",
+      "recommend": 0,
+      "views": 2,
+      "reg_date": "20:02:01",
+      "post_no": "12253",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12253"
+    },
     {
       "num": 11578,
       "title": "7/27(월) 대강 가능하신 선생님",
       "author": "차지명",
       "recommend": 0,
-      "views": 19,
+      "views": 34,
       "reg_date": "17:07:06",
       "post_no": "12252",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12252"
@@ -36,7 +46,7 @@
       "title": "성인취미발레 9월부터 12월 대강수업",
       "author": "유상희",
       "recommend": 0,
-      "views": 63,
+      "views": 68,
       "reg_date": "2026-07-21",
       "post_no": "12249",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12249"
@@ -46,7 +56,7 @@
       "title": "개포동 강남구민체육관 7/29 수요일 2타임",
       "author": "장윤선",
       "recommend": 0,
-      "views": 73,
+      "views": 76,
       "reg_date": "2026-07-21",
       "post_no": "12248",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12248"
@@ -56,7 +66,7 @@
       "title": "인천 발레학원 오늘 대강 급구",
       "author": "조율",
       "recommend": 0,
-      "views": 31,
+      "views": 34,
       "reg_date": "2026-07-21",
       "post_no": "12247",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12247"
@@ -246,7 +256,7 @@
       "title": "발레포러스 잠실새내점 대강 구함  7/18  토 2T 11:20~1:50",
       "author": "이아람",
       "recommend": 0,
-      "views": 52,
+      "views": 53,
       "reg_date": "2026-07-16",
       "post_no": "12227",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12227"
@@ -490,17 +500,7 @@
       "reg_date": "2026-07-09",
       "post_no": "12203",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12203"
-    },
-    {
-      "num": 11529,
-      "title": "*급구* 7/10 금요일 서울 성인발레스트레칭...",
-      "author": "박소담",
-      "recommend": 0,
-      "views": 23,
-      "reg_date": "2026-07-09",
-      "post_no": "12202",
-      "url": "https://www.balletmania.com/board/index.html?id=working&no=12202"
     }
   ],
-  "updated_at": "2026-07-22 09:16:42"
+  "updated_at": "2026-07-22 11:21:26"
 }
