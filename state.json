@@ -1,12 +1,32 @@
 {
-  "last_max": 11580,
+  "last_max": 11582,
   "recent": [
+    {
+      "num": 11582,
+      "title": "내일(7/24) 오전 10시30분 11시50분 성인 발레핏 대강 구합니다",
+      "author": "디어발레스튜디오",
+      "recommend": 2,
+      "views": 0,
+      "reg_date": "18:00:41",
+      "post_no": "12256",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12256"
+    },
+    {
+      "num": 11581,
+      "title": "★7/25(토)천호역앞 발레학원 11:00/12:20 성인발레 두타임",
+      "author": "드림발레",
+      "recommend": 1,
+      "views": 0,
+      "reg_date": "17:46:32",
+      "post_no": "12255",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12255"
+    },
     {
       "num": 11580,
       "title": "8/18화, 8/28금 발레스트레칭, 유아발레 김포구래동 골드라인 대...",
       "author": "유영선",
       "recommend": 0,
-      "views": 4,
+      "views": 13,
       "reg_date": "13:47:09",
       "post_no": "12254",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12254"
@@ -16,7 +36,7 @@
       "title": "급구/7/23 목 내일 마포 4시 성일발레스트레칭",
       "author": "박소담",
       "recommend": 0,
-      "views": 40,
+      "views": 42,
       "reg_date": "2026-07-22",
       "post_no": "12253",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12253"
@@ -26,7 +46,7 @@
       "title": "7/27(월) 대강 가능하신 선생님",
       "author": "차지명",
       "recommend": 0,
-      "views": 59,
+      "views": 65,
       "reg_date": "2026-07-22",
       "post_no": "12252",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12252"
@@ -56,7 +76,7 @@
       "title": "성인취미발레 9월부터 12월 대강수업",
       "author": "유상희",
       "recommend": 0,
-      "views": 83,
+      "views": 87,
       "reg_date": "2026-07-21",
       "post_no": "12249",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12249"
@@ -66,7 +86,7 @@
       "title": "개포동 강남구민체육관 7/29 수요일 2타임",
       "author": "장윤선",
       "recommend": 0,
-      "views": 83,
+      "views": 86,
       "reg_date": "2026-07-21",
       "post_no": "12248",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12248"
@@ -96,7 +116,7 @@
       "title": "8월 4일, 11일(화) 4시반 만수동 유아발레 대강!!",
       "author": "유은지",
       "recommend": 0,
-      "views": 39,
+      "views": 40,
       "reg_date": "2026-07-21",
       "post_no": "12245",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12245"
@@ -106,7 +126,7 @@
       "title": "8월 4일, 6일 대강 선생님 구합니다!!",
       "author": "이주은",
       "recommend": 0,
-      "views": 82,
+      "views": 84,
       "reg_date": "2026-07-20",
       "post_no": "12244",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12244"
@@ -136,7 +156,7 @@
       "title": "신월4동 화목 저녁 성인발레 강사 구인합니다.",
       "author": "윤지원",
       "recommend": 0,
-      "views": 34,
+      "views": 35,
       "reg_date": "2026-07-20",
       "post_no": "12241",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12241"
@@ -146,7 +166,7 @@
       "title": "7/25(토) 4타임, 오목교역 발레 대강 강사 구인",
       "author": "송은혜",
       "recommend": 1,
-      "views": 80,
+      "views": 82,
       "reg_date": "2026-07-20",
       "post_no": "12240",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12240"
@@ -480,27 +500,7 @@
       "reg_date": "2026-07-12",
       "post_no": "12206",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12206"
-    },
-    {
-      "num": 11532,
-      "title": "야당역5분7/15수요일 유아초등3타임 9만원",
-      "author": "유민주",
-      "recommend": 0,
-      "views": 44,
-      "reg_date": "2026-07-12",
-      "post_no": "12205",
-      "url": "https://www.balletmania.com/board/index.html?id=working&no=12205"
-    },
-    {
-      "num": 11531,
-      "title": "7월 18일 아현역 대강선생님 구합니다",
-      "author": "이예림",
-      "recommend": 0,
-      "views": 113,
-      "reg_date": "2026-07-10",
-      "post_no": "12204",
-      "url": "https://www.balletmania.com/board/index.html?id=working&no=12204"
     }
   ],
-  "updated_at": "2026-07-23 06:20:20"
+  "updated_at": "2026-07-23 09:03:27"
 }
