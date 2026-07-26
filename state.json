@@ -1,13 +1,23 @@
 {
-  "last_max": 11584,
+  "last_max": 11585,
   "recent": [
+    {
+      "num": 11585,
+      "title": "오전 성인발레 대타 구합니다!",
+      "author": "원다희",
+      "recommend": 0,
+      "views": 7,
+      "reg_date": "08:58:05",
+      "post_no": "12259",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12259"
+    },
     {
       "num": 11584,
       "title": "8월 2일 교대",
       "author": "강소연",
       "recommend": 1,
-      "views": 11,
-      "reg_date": "21:34:16",
+      "views": 22,
+      "reg_date": "2026-07-25",
       "post_no": "12258",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12258"
     },
@@ -16,7 +26,7 @@
       "title": "7월31일 금요일 평촌역 10시오전성인발레 대타구합니다",
       "author": "김주희",
       "recommend": 0,
-      "views": 46,
+      "views": 51,
       "reg_date": "2026-07-24",
       "post_no": "12257",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12257"
@@ -26,7 +36,7 @@
       "title": "내일(7/24) 오전 10시30분 11시50분 성인 발레핏 대강 구합니다",
       "author": "디어발레스튜디오",
       "recommend": 2,
-      "views": 53,
+      "views": 54,
       "reg_date": "2026-07-23",
       "post_no": "12256",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12256"
@@ -46,7 +56,7 @@
       "title": "8/18화, 8/28금 발레스트레칭, 유아발레 김포구래동 골드라인 대...",
       "author": "유영선",
       "recommend": 0,
-      "views": 59,
+      "views": 60,
       "reg_date": "2026-07-23",
       "post_no": "12254",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12254"
@@ -56,7 +66,7 @@
       "title": "급구/7/23 목 내일 마포 4시 성일발레스트레칭",
       "author": "박소담",
       "recommend": 0,
-      "views": 58,
+      "views": 59,
       "reg_date": "2026-07-22",
       "post_no": "12253",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12253"
@@ -66,7 +76,7 @@
       "title": "7/27(월) 대강 가능하신 선생님",
       "author": "차지명",
       "recommend": 0,
-      "views": 108,
+      "views": 110,
       "reg_date": "2026-07-22",
       "post_no": "12252",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12252"
@@ -106,7 +116,7 @@
       "title": "개포동 강남구민체육관 7/29 수요일 2타임",
       "author": "장윤선",
       "recommend": 0,
-      "views": 115,
+      "views": 116,
       "reg_date": "2026-07-21",
       "post_no": "12248",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12248"
@@ -136,7 +146,7 @@
       "title": "8월 4일, 11일(화) 4시반 만수동 유아발레 대강!!",
       "author": "유은지",
       "recommend": 0,
-      "views": 46,
+      "views": 47,
       "reg_date": "2026-07-21",
       "post_no": "12245",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12245"
@@ -176,7 +186,7 @@
       "title": "신월4동 화목 저녁 성인발레 강사 구인합니다.",
       "author": "윤지원",
       "recommend": 0,
-      "views": 45,
+      "views": 46,
       "reg_date": "2026-07-20",
       "post_no": "12241",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12241"
@@ -216,7 +226,7 @@
       "title": "급구!! 오늘 7/20 시흥대야 3:30 유아발레 수업 대강",
       "author": "이유림",
       "recommend": 0,
-      "views": 59,
+      "views": 60,
       "reg_date": "2026-07-19",
       "post_no": "12237",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12237"
@@ -490,17 +500,7 @@
       "reg_date": "2026-07-12",
       "post_no": "12209",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12209"
-    },
-    {
-      "num": 11535,
-      "title": "8/14(금)",
-      "author": "이유정",
-      "recommend": 0,
-      "views": 37,
-      "reg_date": "2026-07-12",
-      "post_no": "12208",
-      "url": "https://www.balletmania.com/board/index.html?id=working&no=12208"
     }
   ],
-  "updated_at": "2026-07-25 14:13:33"
+  "updated_at": "2026-07-26 01:06:48"
 }
