@@ -1,12 +1,22 @@
 {
-  "last_max": 11612,
+  "last_max": 11613,
   "recent": [
+    {
+      "num": 11613,
+      "title": "8.7 목동 대강 구합니다",
+      "author": "안효은",
+      "recommend": 0,
+      "views": 13,
+      "reg_date": "16:37:51",
+      "post_no": "12287",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12287"
+    },
     {
       "num": 11612,
       "title": "8.19 보라매공원역 성인발레 대강(50분)",
       "author": "박지우",
       "recommend": 1,
-      "views": 8,
+      "views": 16,
       "reg_date": "14:39:59",
       "post_no": "12286",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12286"
@@ -16,7 +26,7 @@
       "title": "8.5일 창동 4타임",
       "author": "박유진",
       "recommend": 0,
-      "views": 9,
+      "views": 20,
       "reg_date": "14:03:35",
       "post_no": "12285",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12285"
@@ -46,7 +56,7 @@
       "title": "[합정] 토요일 저녁 8:00~9:30 90분 성인발레 중급 수업 가능하...",
       "author": "박지선",
       "recommend": 4,
-      "views": 45,
+      "views": 46,
       "reg_date": "2026-07-31",
       "post_no": "12282",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12282"
@@ -56,7 +66,7 @@
       "title": "망원) 8월 ,9월 월오전10시30분,11시50분/수 오전10시30분 발레...",
       "author": "디어발레스튜디오",
       "recommend": 2,
-      "views": 50,
+      "views": 52,
       "reg_date": "2026-07-31",
       "post_no": "12281",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12281"
@@ -126,7 +136,7 @@
       "title": "8/3일 월요일",
       "author": "김수민",
       "recommend": 6,
-      "views": 75,
+      "views": 76,
       "reg_date": "2026-07-29",
       "post_no": "12274",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12274"
@@ -490,17 +500,7 @@
       "reg_date": "2026-07-19",
       "post_no": "12238",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12238"
-    },
-    {
-      "num": 11563,
-      "title": "급구!! 오늘 7/20 시흥대야 3:30 유아발레 수업 대강",
-      "author": "이유림",
-      "recommend": 0,
-      "views": 62,
-      "reg_date": "2026-07-19",
-      "post_no": "12237",
-      "url": "https://www.balletmania.com/board/index.html?id=working&no=12237"
     }
   ],
-  "updated_at": "2026-08-02 07:11:50"
+  "updated_at": "2026-08-02 09:20:22"
 }
