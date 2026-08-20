@@ -1,12 +1,22 @@
 {
-  "last_max": 11718,
+  "last_max": 11719,
   "recent": [
+    {
+      "num": 11719,
+      "title": "대강선생님 구합니다 9/10(목) 8:30pm 혜화역",
+      "author": "이경찬",
+      "recommend": 0,
+      "views": 1,
+      "reg_date": "17:23:57",
+      "post_no": "12393",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12393"
+    },
     {
       "num": 11718,
       "title": "27일 산본) 유아,초등 대강선생님 구합니다",
       "author": "박다혜",
       "recommend": 1,
-      "views": 1,
+      "views": 25,
       "reg_date": "14:39:00",
       "post_no": "12392",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12392"
@@ -16,7 +26,7 @@
       "title": "8월 22일[토요일]대리수업구합니다",
       "author": "발레인",
       "recommend": 0,
-      "views": 38,
+      "views": 58,
       "reg_date": "11:20:51",
       "post_no": "12391",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12391"
@@ -26,7 +36,7 @@
       "title": "8/22 이번주 토요일 양천구 4타임",
       "author": "예진",
       "recommend": 0,
-      "views": 56,
+      "views": 77,
       "reg_date": "08:39:52",
       "post_no": "12390",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12390"
@@ -36,7 +46,7 @@
       "title": "24(월),27일(목),31일(월) 성인반 대강선생님",
       "author": "조민희",
       "recommend": 0,
-      "views": 155,
+      "views": 184,
       "reg_date": "2026-08-19",
       "post_no": "12389",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12389"
@@ -56,7 +66,7 @@
       "title": "고양시 /9월 수요일 발레강사님 모집합니다",
       "author": "이경민",
       "recommend": 0,
-      "views": 202,
+      "views": 225,
       "reg_date": "2026-08-19",
       "post_no": "12387",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12387"
@@ -66,7 +76,7 @@
       "title": "Rad발레 성인.개인레슨",
       "author": "김묘연",
       "recommend": 0,
-      "views": 225,
+      "views": 244,
       "reg_date": "2026-08-19",
       "post_no": "12386",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12386"
@@ -116,7 +126,7 @@
       "title": "9/7 초등대타 구해요",
       "author": "니현서",
       "recommend": 0,
-      "views": 300,
+      "views": 317,
       "reg_date": "2026-08-18",
       "post_no": "12381",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12381"
@@ -136,7 +146,7 @@
       "title": "8/29일 토요일 문정동 대강선생님 구합니다 !!",
       "author": "유혜진",
       "recommend": 0,
-      "views": 322,
+      "views": 340,
       "reg_date": "2026-08-18",
       "post_no": "12379",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12379"
@@ -146,7 +156,7 @@
       "title": "9/2(수) or 성인반 대강 구합니다.",
       "author": "원장",
       "recommend": 0,
-      "views": 340,
+      "views": 359,
       "reg_date": "2026-08-18",
       "post_no": "12378",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12378"
@@ -156,7 +166,7 @@
       "title": "9월 유아 성인반 수업 구함",
       "author": "김희경",
       "recommend": 0,
-      "views": 345,
+      "views": 346,
       "reg_date": "2026-08-18",
       "post_no": "12377",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12377"
@@ -166,7 +176,7 @@
       "title": "9/2 중동역 오후 대강 구합니다(3-4타임)",
       "author": "김규리",
       "recommend": 3,
-      "views": 328,
+      "views": 329,
       "reg_date": "2026-08-18",
       "post_no": "12376",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12376"
@@ -490,17 +500,7 @@
       "reg_date": "2026-08-12",
       "post_no": "12344",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12344"
-    },
-    {
-      "num": 11669,
-      "title": "(발레) 판교 9월부터 / 매주 수요일 4:30-6:30 / 유치부, 초등부...",
-      "author": "김서은",
-      "recommend": 0,
-      "views": 522,
-      "reg_date": "2026-08-12",
-      "post_no": "12343",
-      "url": "https://www.balletmania.com/board/index.html?id=working&no=12343"
     }
   ],
-  "updated_at": "2026-08-20 05:47:11"
+  "updated_at": "2026-08-20 08:26:46"
 }
