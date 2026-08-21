@@ -1,12 +1,22 @@
 {
-  "last_max": 11721,
+  "last_max": 11722,
   "recent": [
+    {
+      "num": 11722,
+      "title": "고양시/ 오늘 오후 발레/ 현대 대강 급구합니다!!",
+      "author": "이경민",
+      "recommend": 0,
+      "views": 1,
+      "reg_date": "12:05:33",
+      "post_no": "12396",
+      "url": "https://www.balletmania.com/board/index.html?id=working&no=12396"
+    },
     {
       "num": 11721,
       "title": "8/29 토요일 문정동 성인발레 대타샘 구해요 !!",
       "author": "유혜진",
       "recommend": 0,
-      "views": 8,
+      "views": 19,
       "reg_date": "10:15:50",
       "post_no": "12395",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12395"
@@ -16,7 +26,7 @@
       "title": "대전 9/3 초등.유아 대타 2타임 10만원",
       "author": "임소연",
       "recommend": 0,
-      "views": 102,
+      "views": 109,
       "reg_date": "2026-08-20",
       "post_no": "12394",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12394"
@@ -26,7 +36,7 @@
       "title": "대강선생님 구합니다 9/10(목) 8:30pm 혜화역",
       "author": "이경찬",
       "recommend": 0,
-      "views": 136,
+      "views": 143,
       "reg_date": "2026-08-20",
       "post_no": "12393",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12393"
@@ -36,7 +46,7 @@
       "title": "27일 산본) 유아,초등 대강선생님 구합니다",
       "author": "박다혜",
       "recommend": 1,
-      "views": 157,
+      "views": 163,
       "reg_date": "2026-08-20",
       "post_no": "12392",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12392"
@@ -56,7 +66,7 @@
       "title": "....",
       "author": "예진",
       "recommend": 0,
-      "views": 204,
+      "views": 210,
       "reg_date": "2026-08-20",
       "post_no": "12390",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12390"
@@ -66,7 +76,7 @@
       "title": "24(월),27일(목),31일(월) 성인반 대강선생님",
       "author": "조민희",
       "recommend": 0,
-      "views": 307,
+      "views": 313,
       "reg_date": "2026-08-19",
       "post_no": "12389",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12389"
@@ -86,7 +96,7 @@
       "title": "고양시 /9월 수요일 발레강사님 모집합니다",
       "author": "이경민",
       "recommend": 0,
-      "views": 337,
+      "views": 344,
       "reg_date": "2026-08-19",
       "post_no": "12387",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12387"
@@ -96,7 +106,7 @@
       "title": "Rad발레 성인.개인레슨",
       "author": "김묘연",
       "recommend": 0,
-      "views": 356,
+      "views": 363,
       "reg_date": "2026-08-19",
       "post_no": "12386",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12386"
@@ -146,7 +156,7 @@
       "title": "9/7 초등대타 구해요",
       "author": "니현서",
       "recommend": 0,
-      "views": 428,
+      "views": 434,
       "reg_date": "2026-08-18",
       "post_no": "12381",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12381"
@@ -226,7 +236,7 @@
       "title": "9/7(월)~9/9(수) 발레수업(11개) 대타구합니다(서하남/클레르발...",
       "author": "정연희",
       "recommend": 2,
-      "views": 355,
+      "views": 357,
       "reg_date": "2026-08-17",
       "post_no": "12373",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12373"
@@ -490,17 +500,7 @@
       "reg_date": "2026-08-12",
       "post_no": "12347",
       "url": "https://www.balletmania.com/board/index.html?id=working&no=12347"
-    },
-    {
-      "num": 11672,
-      "title": "양천구 신월4동 8월19일(수) 8시 10분~9시20분 성인발레 대강 선...",
-      "author": "윤지원",
-      "recommend": 1,
-      "views": 634,
-      "reg_date": "2026-08-12",
-      "post_no": "12346",
-      "url": "https://www.balletmania.com/board/index.html?id=working&no=12346"
     }
   ],
-  "updated_at": "2026-08-21 02:06:48"
+  "updated_at": "2026-08-21 03:12:58"
 }
